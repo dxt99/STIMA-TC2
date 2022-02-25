@@ -1,4 +1,5 @@
-# STIMA-TC2
+# Tugas Kecil 2 Strategi Algoritma: Convex Hull
+
 
 Program myConvexHull menerima suatu list of points dan mengembalikan list of points yang merupakan bagian dari Convex Hull kumpulan titik tersebut. Kumpulan titik yang dikembalikan terurut secara clockwise untuk mempermudah penggambaran convex hull. Program main.py dan main.ipynb memperlihatkan contoh penggunaan dari myConvexHull pada dataset Iris dan Wine pada beberapa pasang atribut. Kedua program tersebut berisi code yang sama, tetapi main.ipynb memiliki tampilan yang lebih user-friendly.
 
